@@ -1,3 +1,3 @@
 # Digital-Car-Lock
-We Used Logic gates and Digital IC's to make a car lock which has the features of Master Password, Car Lights, Alarm systems, Autolock and is interfaced with
-a 7 segment LED Display (All Simulated on Logisim).
+
+Designed a digital car lock, interfaced with a seven-segment display, which has the features of Master Password, Car Lights, Alarm systems, Auto-lock and factory reset on Logisim.
